@@ -131,11 +131,3 @@
 - `README.md` – описание проекта
 
 ---
-
-## 🚀 Как запустить проект локально
-
-1. Клонируйте репозиторий:
-
-```bash
-git clone https://github.com/your-username/yandex-books-pyspark.git
-cd yandex-books-pyspark
